@@ -40,7 +40,7 @@ public class Basics {
          */
         System.out.println(7 + 5);
 
-        System.out.println("Hello World!);
+        System.out.println("Hello World!");
 
 
 
@@ -55,7 +55,7 @@ public class Basics {
          *
          *    (Relevant reading: 1.2. Variables and Types)
          */ 
-        int my_variable = 100
+        int my_variable = 100;
 
 
 
